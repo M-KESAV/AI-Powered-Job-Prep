@@ -1,4 +1,4 @@
-import { BackLink } from "@/components/BackLink"
+// Removed unused import: BackLink
 import { Card, CardContent } from "@/components/ui/card"
 import { db } from "@/drizzle/db"
 import { JobInfoTable } from "@/drizzle/schema"
